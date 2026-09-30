@@ -20,7 +20,7 @@ Uses [Eclipse Milo](https://github.com/eclipse/milo) as the default implementati
 implementation "com.ttulka.opcua:opc-ua-spring-boot-starter:0.0.3"
 ```
 
-See [examples](https://github.com/ttulka/opc-ua-spring-boot-starter/blob/main/examples) of the usage.
+See [examples](https://github.com/ramonaoldf/opc-ua-spring-boot-starter/blob/main/examples) of the usage.
 
 ## Properties
 
